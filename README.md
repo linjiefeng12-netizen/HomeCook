@@ -1,29 +1,32 @@
 # HomeCook iOS 应用
 
 HomeCook 是一个基于 SwiftUI 开发的 iOS 烹饪应用，支持多国语言，帮助用户选择食材和厨具来获取食谱推荐。
+<img src="HomeCookUI/Welcome.PNG" alt="WelcomeView" width="200" height="400">
 
 ## 功能特性
-
 ### 🏠 主页 (Home)
 - **食材选择**: 支持选择蔬菜、肉类和主食
 - **厨具选择**: 选择烤箱、空气炸锅、微波炉等厨具
 - **推荐食谱**: 基于选择的食材和厨具推荐相关食谱
+<img src="HomeCookUI/Home.PNG" alt="HomeView" width="200" height="400">
 
 ### 🎲 风味抽卡 (Flavor Gacha)
 - **人份设置**: 可调整1-10人份
 - **随机匹配**: 随机生成食谱组合
 - **食谱展示**: 以卡片形式展示推荐的食谱
+<img src="HomeCookUI/FlavorGacha.PNG" alt="FlavorGachaView" width="200" height="400">
 
 ### 👤 个人中心 (Me)
 - **用户资料**: 显示用户头像、姓名和会员状态
 - **历史记录**: 查看烹饪历史
 - **我的收藏**: 管理收藏的食谱
 - **设置选项**: 分享、反馈、设置等功能
+<img src="HomeCookUI/Profile.PNG" alt="ProfileView" width="200" height="400">
 
-### 📅 历史记录 (History)
-- **日历视图**: 以日历形式展示烹饪记录
-- **历史列表**: 显示详细的烹饪历史记录
-
+### ❤️ 喜欢记录 (Favorite)
+- **点赞视图**: 以卡片形式展示点赞记录
+<img src="HomeCookUI/Favorite.PNG" alt="FavoriteView" width="200" height="400">
+    
 ## 多语言支持
 
 应用支持以下8种语言：
