@@ -60,10 +60,10 @@ The application supports the following 8 languages:
 ### View Structure
 ```
 MainTabView
-├── HomeView (主页)
-├── FlavorGachaView (风味抽卡)
-└── ProfileView (个人中心)
-    └── HistoryView (历史记录)
+├── HomeView (Home)
+├── FlavorGachaView (Flavor Gacha)
+└── ProfileView (Profile)
+    └── HistoryView (History)
 ```
 
 ## Installation and Running
