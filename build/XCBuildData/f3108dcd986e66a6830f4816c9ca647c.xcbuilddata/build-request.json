@@ -1,0 +1,42 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c1c414dfa55501a5aaf6be6ebd9b0892feee4a02b384b589fb7ab938d37b33cd"
+    }
+  ],
+  "containerPath" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription" : "HomeCook 需要访问您的位置信息来提供个性化的烹饪建议和本地化服务。",
+          "INFOPLIST_KEY_NSLocationWhenInUseUsageDescription" : "HomeCook 需要访问您的位置信息来提供个性化的烹饪建议和本地化服务。"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "100",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,319 @@
+/* 
+  Localizable.strings
+  HomeCook
+
+  Created by linjiefeng on 2025/7/3.
+  
+*/
+
+// Tab Bar
+"home" = "首页";
+"flavor_gacha" = "风味抽卡";
+"me" = "我的";
+
+// Home Screen
+"lets_cooking" = "开始烹饪吧！";
+"select_ingredients" = "选择食材";
+"vegetables" = "蔬菜";
+"meats" = "肉类";
+"staple_foods" = "主食（可选）";
+"select_kitchenware" = "选择厨具";
+"recommended_recipes" = "推荐食谱";
+
+// Ingredients
+"potato" = "土豆";
+"carrot" = "胡萝卜";
+"tomato" = "番茄";
+"onion" = "洋葱";
+"green_pepper" = "青椒";
+"eggplant" = "茄子";
+"spinach" = "菠菜";
+"cucumber" = "黄瓜";
+"sweet_corn" = "甜玉米";
+"celery" = "芹菜";
+"cauliflower" = "花菜";
+"broccoli" = "西兰花";
+"bitter_melon" = "苦瓜";
+"pumpkin" = "南瓜";
+"lotus_root" = "莲藕";
+"mushrooms" = "蘑菇";
+"enoki_mushrooms" = "金针菇";
+"shiitake_mushrooms" = "香菇";
+"oyster_mushrooms" = "平菇";
+"king_oyster_mushrooms" = "杏鲍菇";
+"mushrooms" = "蘑菇";
+"enoki_mushrooms" = "金针菇";
+"shiitake_mushrooms" = "香菇";
+"oyster_mushrooms" = "平菇";
+"king_oyster_mushrooms" = "杏鲍菇";
+
+"sausage" = "香肠";
+"pork" = "猪肉";
+"beef" = "牛肉";
+"eggs" = "鸡蛋";
+"fish" = "鱼";
+"shrimp" = "虾";
+"chicken" = "鸡肉";
+"lamb" = "羊肉";
+"duck" = "鸭肉";
+"goose" = "鹅肉";
+"offal" = "内脏";
+"tripe" = "牛肚";
+
+"pasta" = "意面";
+"bread" = "面包";
+"rice" = "米饭";
+"noodles" = "面条";
+"rice_flour" = "米粉";
+"grains" = "谷物";
+"beans" = "豆类";
+"bean_products" = "豆制品";
+"tubers" = "薯类";
+"nuts" = "坚果";
+
+// Kitchenware
+"oven" = "烤箱";
+"air_fryer" = "空气炸锅";
+"microwave" = "微波炉";
+"rice_cooker" = "电饭煲";
+"versatile_pot" = "多功能锅";
+
+// Flavor Gacha
+"servings" = "人数";
+"random_match" = "随机匹配";
+"recipes" = "食谱";
+"click_random_match" = "点击随机匹配获取食谱推荐";
+"dessert" = "甜品";
+
+// Recipe Names
+"pasta_carbonara" = "奶油培根意面";
+"mediterranean_salad" = "地中海沙拉";
+"tomato_soup" = "番茄汤";
+"chocolate_mousse" = "巧克力慕斯";
+"roasted_potato_pork" = "烤土豆猪肉";
+"rice_cooker_chicken_rice" = "电饭煲鸡肉饭";
+"grilled_salmon" = "烤三文鱼";
+"beef_stir_fry" = "牛肉炒菜";
+"chicken_curry" = "咖喱鸡";
+"vegetable_stew" = "蔬菜炖菜";
+"rice_pudding" = "米布丁";
+"apple_pie" = "苹果派";
+"mushroom_risotto" = "蘑菇烩饭";
+"caesar_salad" = "凯撒沙拉";
+"beef_burger" = "牛肉汉堡";
+"fish_tacos" = "鱼肉卷饼";
+"vegetable_lasagna" = "蔬菜千层面";
+"chicken_soup" = "鸡汤";
+"fruit_salad" = "水果沙拉";
+"pork_chops" = "猪排";
+"quinoa_bowl" = "藜麦碗";
+"shrimp_scampi" = "蒜蓉虾";
+
+// Profile
+"profile" = "个人资料";
+"premium_member" = "高级会员";
+"joined_years_ago" = "加入%d年前";
+"history" = "历史记录";
+"my_favorites" = "我的收藏";
+"share_recipes" = "分享食谱";
+"feedback" = "反馈";
+"settings" = "设置";
+"about" = "关于";
+
+// Recipe Details
+"spicy_chicken_stir_fry" = "香辣鸡肉炒";
+"creamy_tomato_soup" = "奶油番茄汤";
+"grilled_salmon_asparagus" = "芦笋烤三文鱼";
+
+// Recipe Descriptions
+"classic_combination_potatoes_pork" = "土豆和猪肉的经典组合";
+"simple_quick_one_pot_meal" = "简单快手的一锅饭";
+
+// History
+"november_2024" = "2024年11月";
+"year_month" = "2024年11月";
+"recently_cooking" = "最近制作";
+
+// Settings
+"settings_title" = "设置";
+"language_settings" = "语言设置";
+"theme_settings" = "主题设置";
+"dark_mode" = "深色模式";
+"light_mode" = "浅色模式";
+
+// About
+"about_us" = "关于我们";
+"user_agreement" = "用户协议";
+"privacy_policy" = "隐私政策";
+"version_info" = "版本信息";
+"all_rights_reserved" = "版权所有";
+
+// About Us Content
+"about_us_title" = "关于HomeCook";
+"about_us_description" = "HomeCook是您的个人烹饪助手，旨在让家庭烹饪变得更简单、更有趣、更有创意。我们相信每个人都应该享受在自己厨房里用心制作的美味健康餐点。";
+"feature1" = "智能食谱推荐";
+"feature1_desc" = "根据您的食材和偏好获得个性化食谱建议";
+"feature2" = "多语言支持";
+"feature2_desc" = "支持8种语言，为全球用户提供服务";
+"feature3" = "用户友好界面";
+"feature3_desc" = "直观的设计让烹饪变得人人可及";
+
+// User Agreement
+"user_agreement_title" = "用户协议";
+"agreement_section1" = "1. 条款接受";
+"agreement_section1_content" = "通过下载、安装或使用HomeCook应用程序，您同意受这些条款和条件的约束。如果您不同意这些条款，请不要使用该应用程序。";
+"agreement_section2" = "2. 服务使用";
+"agreement_section2_content" = "HomeCook仅供个人、非商业用途使用。未经我们书面同意，您不得将服务用于任何商业目的。";
+"agreement_section3" = "3. 用户内容";
+"agreement_section3_content" = "您保留对提交到应用程序的任何内容的所有权。通过提交内容，您授予我们在应用程序内使用、修改和分发您内容的许可。";
+"agreement_section4" = "4. 终止";
+"agreement_section4_content" = "我们保留随时终止或暂停您访问服务的权利，无论是否有原因，也无需事先通知。";
+
+// Privacy Policy
+"privacy_policy_title" = "隐私政策";
+"privacy_section1" = "1. 我们收集的信息";
+"privacy_section1_content" = "我们收集您直接提供给我们的信息，例如当您创建账户、提交食谱或联系我们寻求支持时。这可能包括您的姓名、电子邮件地址和烹饪偏好。";
+"privacy_section2" = "2. 我们如何使用您的信息";
+"privacy_section2_content" = "我们使用收集的信息来提供、维护和改进我们的服务，与您沟通，并个性化您在应用程序中的体验。";
+"privacy_section3" = "3. 信息共享";
+"privacy_section3_content" = "未经您的同意，我们不会向第三方出售、交易或以其他方式转让您的个人信息，除非法律要求或为提供我们的服务所必需。";
+"privacy_section4" = "4. 数据安全";
+"privacy_section4_content" = "我们实施适当的安全措施来保护您的个人信息免受未经授权的访问、更改、披露或破坏。";
+
+// Version Info
+"version_info_title" = "版本信息";
+"current_version" = "当前版本";
+"build_number" = "构建版本";
+"developer" = "开发者";
+
+// About Page
+"legal_info" = "法律信息";
+"terms_of_service" = "服务条款";
+"open_source_licenses" = "开源许可证";
+"support_info" = "支持信息";
+"contact_us" = "联系我们";
+"rate_app" = "为应用评分";
+"share_app" = "分享应用";
+
+// Content for legal pages
+"terms_of_service_content" = "欢迎使用 HomeCook！\n\n通过使用我们的应用程序，您同意遵守以下服务条款：\n\n1. 服务使用\nHomeCook 是一款免费的烹饪助手应用，旨在帮助用户发现和制作美味的食谱。\n\n2. 用户责任\n用户需要对自己在应用中的行为负责，不得发布违法或不当内容。\n\n3. 知识产权\n应用中的所有内容均受版权保护，未经许可不得复制或分发。\n\n4. 免责声明\n我们不对因使用本应用而产生的任何损失承担责任。\n\n5. 条款变更\n我们保留随时修改这些条款的权利。\n\n如有疑问，请联系我们的支持团队。";
+
+"privacy_policy_content" = "HomeCook 隐私政策\n\n我们重视您的隐私，本政策说明我们如何收集、使用和保护您的信息。\n\n1. 信息收集\n我们可能收集您的设备信息、使用数据和偏好设置，以改善应用体验。\n\n2. 信息使用\n收集的信息仅用于：\n- 提供和改善服务\n- 个性化推荐\n- 技术支持\n\n3. 信息保护\n我们采用行业标准的安全措施保护您的数据。\n\n4. 第三方服务\n我们可能使用第三方分析工具，这些服务有自己的隐私政策。\n\n5. 联系我们\n如对隐私政策有疑问，请通过应用内反馈功能联系我们。\n\n最后更新：2025年1月";
+
+"open_source_licenses_content" = "HomeCook 使用了以下开源组件：\n\nSwiftUI\n版权所有 © Apple Inc.\n许可证：Apple Software License\n\nFoundation\n版权所有 © Apple Inc.\n许可证：Apple Software License\n\n感谢所有开源贡献者的辛勤工作，使得这个应用成为可能。\n\n如需了解更多信息，请访问各组件的官方网站。";
+
+// Favorites
+"favorited" = "已收藏";
+"unfavorited" = "已取消收藏";
+"no_favorites" = "暂无收藏";
+"no_favorites_description" = "点击视频卡片上的红心图标来收藏您喜欢的食谱视频";
+"views" = "次观看";
+"favorite_count" = "共%d个收藏";
+"favorite_time" = "收藏于%@";
+
+// Search
+"search_recipes" = "搜索烹饪视频";
+"searching_videos" = "正在搜索视频...";
+"based_on_selection" = "基于您选择的食材和厨具";
+"please_select_first" = "请先选择食材或厨具";
+"no_videos_found" = "未找到相关烹饪视频";
+"try_other_ingredients" = "请尝试选择其他食材或厨具";
+"searching_cooking_videos" = "正在搜索烹饪视频...";
+"try_random_match_again" = "请再次尝试随机匹配";
+"searching_for_recipes" = "正在搜索美味食谱...";
+
+// Welcome Screen
+"welcome_subtitle" = "美味烹饪，从这里开始";
+"welcome_loading_text" = "正在准备美味体验...";
+"welcome_loading" = "正在准备美味体验...";
+
+// Premium
+"premium" = "高级会员";
+"upgrade_to_premium" = "升级到高级会员";
+"premium_subtitle" = "解锁所有功能，享受完整的烹饪体验";
+
+// Avatar
+"change_avatar" = "更换头像";
+"choose_photo" = "选择照片";
+"take_photo" = "拍照";
+"cancel" = "取消";
+
+// Login/Register
+"login" = "登录";
+"register" = "注册";
+"login_subtitle" = "欢迎回来！请登录您的账户";
+"register_subtitle" = "创建新账户开始您的烹饪之旅";
+"full_name" = "姓名";
+"email" = "邮箱";
+"password" = "密码";
+"confirm_password" = "确认密码";
+"no_account" = "还没有账户？";
+"have_account" = "已有账户？";
+"notice" = "提示";
+"login_failed" = "登录失败，请检查邮箱和密码";
+"password_mismatch" = "两次输入的密码不一致";
+"password_too_short" = "密码长度至少6位";
+"invalid_email" = "邮箱格式不正确";
+"email_already_exists" = "该邮箱已被注册";
+"logout" = "退出登录";
+"processing" = "处理中...";
+
+// Login/Register additional strings
+"welcome_back" = "欢迎回来";
+"create_new_account" = "创建新账户";
+"already_have_account" = "已有账户？";
+"dont_have_account" = "还没有账户？";
+"login_failed_message" = "登录失败，请检查邮箱和密码";
+"registration_failed_message" = "注册失败，该邮箱可能已被注册";
+"passwords_dont_match" = "两次输入的密码不一致";
+"password_min_length" = "密码长度至少6位";
+"invalid_email_format" = "请输入有效的邮箱地址";
+"alert_title" = "提示";
+"alert_ok" = "确定";
+
+"choose_plan" = "选择订阅套餐";
+"free_trial_title" = "免费试用";
+"half_year_title" = "半年订阅";
+"full_year_title" = "全年订阅";
+"free" = "免费";
+"one_month" = "1个月";
+"six_months" = "6个月";
+"one_year" = "1年";
+"best_value" = "最超值";
+"start_free_trial" = "开始免费试用";
+"subscribe" = "立即订阅";
+"subscription_terms" = "订阅将自动续费，可随时在设置中取消";
+"close" = "关闭";
+"subscription_success" = "订阅成功";
+"free_trial_activated" = "免费试用已激活！您可以免费使用1个月的高级功能。";
+"half_year_subscribed" = "半年订阅已激活！感谢您的支持。";
+"full_year_subscribed" = "全年订阅已激活！感谢您选择我们的最超值套餐。";
+"ok" = "好的";
+
+// Error Messages
+"registration_failed" = "注册失败，请稍后重试";
+"login_error" = "邮箱或密码错误";
+"network_error" = "网络连接失败，请检查网络设置";
+"server_error" = "服务器错误，请稍后重试";
+"unknown_error" = "发生未知错误，请稍后重试";
+"email_already_registered" = "该邮箱已被注册";
+"invalid_credentials" = "邮箱或密码错误";
+"user_not_found" = "无此账号或密码错误";
+"email_not_confirmed" = "邮箱未验证，请检查邮箱并点击验证链接";
+"weak_password" = "密码强度太弱，请使用更复杂的密码";
+"too_many_requests" = "请求过于频繁，请稍后重试";
+"invalid_email_format" = "请输入有效的邮箱地址";
+"password_mismatch" = "两次输入的密码不一致";
+"password_too_short" = "密码长度至少需要6位";
+"user_not_found" = "无此账号或密码错误";
+"email_not_confirmed" = "邮箱未验证，请检查邮箱并点击验证链接";
+"weak_password" = "密码强度不够，请使用更复杂的密码";
+"too_many_requests" = "请求过于频繁，请稍后再试";
+
+// Home页面搜索组合提示
+"search_combination_hint" = "将搜索 %d×%d=%d 种组合";
+"search_combination_result_title" = "搜索组合结果";
+"search_combination_result" = "为您找到 %d 种蔬菜 × %d 种肉类 = %d 种组合的热门视频";
+"no_related_cooking_videos_found" = "未找到相关烹饪视频";
+"please_try_selecting_other_ingredients" = "请尝试选择其他食材或厨具";
+

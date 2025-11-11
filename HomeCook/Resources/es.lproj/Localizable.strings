@@ -1,0 +1,304 @@
+/* 
+  Localizable.strings
+  HomeCook
+
+  Created by linjiefeng on 2025/7/3.
+  
+*/
+
+// Tab Bar - Barra de pestañas
+"home" = "Inicio";
+"flavor_gacha" = "Gacha de Sabores";
+"me" = "Perfil";
+
+// Home Screen - Pantalla de inicio
+"lets_cooking" = "¡Cocinemos!";
+"select_ingredients" = "Seleccionar ingredientes";
+"vegetables" = "Verduras";
+"meats" = "Carnes";
+"staple_foods" = "Alimentos básicos (opcional)";
+"select_kitchenware" = "Seleccionar utensilios";
+"recommended_recipes" = "Recetas recomendadas";
+
+// Ingredients - Ingredientes
+"potato" = "Patata";
+"carrot" = "Zanahoria";
+"tomato" = "Tomate";
+"onion" = "Cebolla";
+"green_pepper" = "Pimiento verde";
+"eggplant" = "Berenjena";
+"spinach" = "Espinacas";
+"cucumber" = "Pepino";
+"sweet_corn" = "Maíz dulce";
+"celery" = "Apio";
+"cauliflower" = "Coliflor";
+"broccoli" = "Brócoli";
+"bitter_melon" = "Melón amargo";
+"pumpkin" = "Calabaza";
+"lotus_root" = "Raíz de loto";
+"mushrooms" = "Setas";
+"enoki_mushrooms" = "Setas enoki";
+"shiitake_mushrooms" = "Setas shiitake";
+"oyster_mushrooms" = "Setas ostra";
+"king_oyster_mushrooms" = "Setas rey ostra";
+
+"sausage" = "Salchicha";
+"pork" = "Cerdo";
+"beef" = "Ternera";
+"eggs" = "Huevos";
+"fish" = "Pescado";
+"shrimp" = "Gambas";
+"chicken" = "Pollo";
+"lamb" = "Cordero";
+"duck" = "Pato";
+"goose" = "Ganso";
+"offal" = "Vísceras";
+"tripe" = "Callos";
+
+"pasta" = "Pasta";
+"bread" = "Pan";
+"rice" = "Arroz";
+"noodles" = "Fideos";
+"rice_flour" = "Harina de arroz";
+"grains" = "Cereales";
+"beans" = "Judías";
+"bean_products" = "Productos de judías";
+"tubers" = "Tubérculos";
+"nuts" = "Frutos secos";
+
+// Kitchenware - Utensilios de cocina
+"oven" = "Horno";
+"air_fryer" = "Freidora de aire";
+"microwave" = "Microondas";
+"rice_cooker" = "Arrocera";
+"versatile_pot" = "Olla versátil";
+
+// Flavor Gacha - Gacha de Sabores
+"servings" = "Porciones";
+"random_match" = "Combinación aleatoria";
+"recipes" = "Recetas";
+"click_random_match" = "Haz clic en Combinación aleatoria para recomendaciones de recetas";
+"dessert" = "Postre";
+
+// Recipe Names - Nombres de recetas
+"pasta_carbonara" = "Pasta Carbonara";
+"mediterranean_salad" = "Ensalada mediterránea";
+"tomato_soup" = "Sopa de tomate";
+"chocolate_mousse" = "Mousse de chocolate";
+"roasted_potato_pork" = "Patatas asadas con cerdo";
+"rice_cooker_chicken_rice" = "Arroz con pollo de arrocera";
+"grilled_salmon" = "Salmón a la parrilla";
+"beef_stir_fry" = "Salteado de ternera";
+"chicken_curry" = "Curry de pollo";
+"vegetable_stew" = "Estofado de verduras";
+"rice_pudding" = "Arroz con leche";
+"apple_pie" = "Tarta de manzana";
+"mushroom_risotto" = "Risotto de setas";
+"caesar_salad" = "Ensalada César";
+"beef_burger" = "Hamburguesa de ternera";
+"fish_tacos" = "Tacos de pescado";
+"vegetable_lasagna" = "Lasaña de verduras";
+"chicken_soup" = "Sopa de pollo";
+"fruit_salad" = "Ensalada de frutas";
+"pork_chops" = "Chuletas de cerdo";
+"quinoa_bowl" = "Bowl de quinoa";
+"shrimp_scampi" = "Gambas scampi";
+
+// Profile - Perfil
+"profile" = "Perfil";
+"premium_member" = "Miembro Premium";
+"joined_years_ago" = "Se unió hace %d años";
+"history" = "Historial";
+"my_favorites" = "Mis favoritos";
+"share_recipes" = "Compartir recetas";
+"feedback" = "Comentarios";
+"settings" = "Configuración";
+"about" = "Acerca de la app";
+
+// Recipe Details - Detalles de la receta
+"spicy_chicken_stir_fry" = "Salteado de pollo picante";
+"creamy_tomato_soup" = "Sopa cremosa de tomate";
+"grilled_salmon_asparagus" = "Salmón a la parrilla con espárragos";
+
+// Recipe Descriptions - Descripciones de recetas
+"classic_combination_potatoes_pork" = "Combinación clásica de patatas y cerdo";
+"simple_quick_one_pot_meal" = "Comida rápida y sencilla en una olla";
+
+// History - Historial
+"november_2024" = "Noviembre 2024";
+"year_month" = "Noviembre 2024";
+"recently_cooking" = "Cocinado recientemente";
+
+// Settings - Configuración
+"settings_title" = "Configuración";
+"language_settings" = "Configuración de idioma";
+"theme_settings" = "Configuración de tema";
+"dark_mode" = "Modo oscuro";
+"light_mode" = "Modo claro";
+
+// About - Acerca de la app
+"about_us" = "Acerca de nosotros";
+"user_agreement" = "Acuerdo de usuario";
+"privacy_policy" = "Política de privacidad";
+"version_info" = "Información de versión";
+"all_rights_reserved" = "Todos los derechos reservados";
+
+// About Us Content - Contenido Acerca de nosotros
+"about_us_title" = "Acerca de HomeCook";
+"about_us_description" = "HomeCook es tu asistente culinario personal que tiene como objetivo hacer que cocinar en casa sea más simple, divertido y creativo. Creemos que todos deberían poder disfrutar de comidas deliciosas y saludables preparadas con amor en su propia cocina.";
+"feature1" = "Recomendaciones inteligentes de recetas";
+"feature1_desc" = "Obtén sugerencias de recetas personalizadas basadas en tus ingredientes y preferencias";
+"feature2" = "Soporte multiidioma";
+"feature2_desc" = "Soporta 8 idiomas para servir a usuarios de todo el mundo";
+"feature3" = "Interfaz fácil de usar";
+"feature3_desc" = "Diseño intuitivo que hace que cocinar sea accesible para todos";
+
+// User Agreement - Acuerdo de usuario
+"user_agreement_title" = "Acuerdo de usuario";
+"agreement_section1" = "1. Aceptación de términos";
+"agreement_section1_content" = "Al descargar, instalar o usar la aplicación HomeCook, aceptas estar sujeto a estos términos y condiciones. Si no aceptas estos términos, por favor no uses la aplicación.";
+"agreement_section2" = "2. Uso del servicio";
+"agreement_section2_content" = "HomeCook está destinado solo para uso personal y no comercial. No puedes usar el servicio para fines comerciales sin nuestro consentimiento por escrito.";
+"agreement_section3" = "3. Contenido del usuario";
+"agreement_section3_content" = "Conservas la propiedad de cualquier contenido que envíes a la aplicación. Al enviar contenido, nos otorgas una licencia para usar, modificar y distribuir tu contenido dentro de la aplicación.";
+"agreement_section4" = "4. Terminación";
+"agreement_section4_content" = "Nos reservamos el derecho de terminar o suspender tu acceso al servicio en cualquier momento, con o sin causa, y con o sin aviso.";
+
+// Privacy Policy - Política de privacidad
+"privacy_policy_title" = "Política de privacidad";
+"privacy_section1" = "1. Información que recopilamos";
+"privacy_section1_content" = "Recopilamos información que nos proporcionas directamente, como cuando creas una cuenta, envías recetas o nos contactas para soporte. Esto puede incluir tu nombre, dirección de correo electrónico y preferencias culinarias.";
+"privacy_section2" = "2. Cómo usamos tu información";
+"privacy_section2_content" = "Usamos la información que recopilamos para proporcionar, mantener y mejorar nuestros servicios, comunicarnos contigo y personalizar tu experiencia dentro de la aplicación.";
+"privacy_section3" = "3. Compartir información";
+"privacy_section3_content" = "No vendemos, intercambiamos o transferimos tu información personal a terceros sin tu consentimiento, excepto cuando sea requerido por ley o necesario para proporcionar nuestros servicios.";
+"privacy_section4" = "4. Seguridad de datos";
+"privacy_section4_content" = "Implementamos medidas de seguridad apropiadas para proteger tu información personal contra acceso no autorizado, alteración, divulgación o destrucción.";
+
+// Version Info - Información de versión
+"version_info_title" = "Información de versión";
+"current_version" = "Versión actual";
+"build_number" = "Número de compilación";
+"developer" = "Desarrollador";
+
+// About Page - Página Acerca de
+"legal_info" = "Información legal";
+"terms_of_service" = "Términos de servicio";
+"open_source_licenses" = "Licencias de código abierto";
+"support_info" = "Información de soporte";
+"contact_us" = "Contáctanos";
+"rate_app" = "Calificar app";
+"share_app" = "Compartir app";
+
+// Content for legal pages - Contenido para páginas legales
+"terms_of_service_content" = "¡Bienvenido a HomeCook!\n\nAl usar nuestra aplicación, aceptas cumplir con los siguientes términos de servicio:\n\n1. Uso del servicio\nHomeCook es una app gratuita de asistente culinario diseñada para ayudar a los usuarios a descubrir y crear recetas deliciosas.\n\n2. Responsabilidades del usuario\nLos usuarios son responsables de su comportamiento dentro de la app y no deben publicar contenido ilegal o inapropiado.\n\n3. Propiedad intelectual\nTodo el contenido en la app está protegido por derechos de autor y no puede ser copiado o distribuido sin permiso.\n\n4. Descargo de responsabilidad\nNo somos responsables de las pérdidas que surjan del uso de esta aplicación.\n\n5. Cambios en los términos\nNos reservamos el derecho de modificar estos términos en cualquier momento.\n\nSi tienes preguntas, por favor contacta a nuestro equipo de soporte.";
+
+"privacy_policy_content" = "Política de privacidad de HomeCook\n\nValoramos tu privacidad y esta política explica cómo recopilamos, usamos y protegemos tu información.\n\n1. Recopilación de información\nPodemos recopilar información de tu dispositivo, datos de uso y configuraciones para mejorar la experiencia de la app.\n\n2. Uso de la información\nLa información recopilada se usa solo para:\n- Proporcionar y mejorar servicios\n- Recomendaciones personalizadas\n- Soporte técnico\n\n3. Protección de la información\nUsamos medidas de seguridad estándar de la industria para proteger tus datos.\n\n4. Servicios de terceros\nPodemos usar herramientas de análisis de terceros que tienen sus propias políticas de privacidad.\n\n5. Contáctanos\nSi tienes preguntas sobre nuestra política de privacidad, por favor contáctanos a través de la función de comentarios en la app.\n\nÚltima actualización: Enero 2025";
+
+"open_source_licenses_content" = "HomeCook usa los siguientes componentes de código abierto:\n\nSwiftUI\nCopyright © Apple Inc.\nLicencia: Apple Software License\n\nFoundation\nCopyright © Apple Inc.\nLicencia: Apple Software License\n\nGracias a todos los contribuidores de código abierto cuyo arduo trabajo hizo posible esta app.\n\nPara más información, por favor visita los sitios web oficiales de cada componente.";
+
+// Favorites - Favoritos
+"favorited" = "Añadido a favoritos";
+"unfavorited" = "Eliminado de favoritos";
+"no_favorites" = "Sin favoritos";
+"no_favorites_description" = "Toca el ícono de corazón en las tarjetas de video para guardar tus videos de recetas favoritos";
+"views" = "visualizaciones";
+"favorite_count" = "%d favoritos en total";
+"favorite_time" = "Añadido a favoritos el %@";
+
+// Search - Búsqueda
+"search_recipes" = "Buscar recetas";
+"searching_videos" = "Buscando videos...";
+"based_on_selection" = "Basado en la selección";
+"please_select_first" = "Por favor selecciona ingredientes primero";
+"no_videos_found" = "No se encontraron videos";
+"try_other_ingredients" = "Prueba otros ingredientes";
+"searching_cooking_videos" = "Buscando videos de cocina...";
+"try_random_match_again" = "Prueba la combinación aleatoria de nuevo";
+"searching_for_recipes" = "Buscando recetas...";
+
+// Welcome Screen - Pantalla de bienvenida
+"welcome_subtitle" = "La cocina deliciosa comienza aquí";
+"welcome_loading_text" = "Preparando tu experiencia culinaria...";
+"welcome_loading" = "Preparando tu experiencia culinaria...";
+
+// Premium - Premium
+"premium" = "Premium";
+"upgrade_to_premium" = "Actualizar a Premium";
+"premium_subtitle" = "Desbloquea todas las funciones y disfruta de la experiencia culinaria completa";
+
+// Avatar - Avatar
+"change_avatar" = "Cambiar avatar";
+"choose_photo" = "Elegir foto";
+"take_photo" = "Tomar foto";
+"cancel" = "Cancelar";
+
+// Login/Register - Iniciar sesión/Registrarse
+"login" = "Iniciar sesión";
+"register" = "Registrarse";
+"login_subtitle" = "¡Bienvenido de vuelta! Por favor inicia sesión en tu cuenta";
+"register_subtitle" = "Crea una nueva cuenta para comenzar tu viaje culinario";
+"full_name" = "Nombre completo";
+"email" = "Correo electrónico";
+"password" = "Contraseña";
+"confirm_password" = "Confirmar contraseña";
+"no_account" = "¿No tienes cuenta?";
+"have_account" = "¿Ya tienes cuenta?";
+"notice" = "Aviso";
+"logout" = "Cerrar sesión";
+"processing" = "Procesando...";
+
+// Login/Register additional strings - Cadenas adicionales de inicio de sesión/registro
+"welcome_back" = "Bienvenido de vuelta";
+"create_new_account" = "Crear nueva cuenta";
+"already_have_account" = "¿Ya tienes cuenta?";
+"dont_have_account" = "¿No tienes cuenta?";
+"login_failed_message" = "Error al iniciar sesión. Por favor verifica tu correo y contraseña";
+"registration_failed_message" = "Error en el registro. Este correo podría ya estar registrado";
+"passwords_dont_match" = "Las contraseñas no coinciden";
+"password_min_length" = "La contraseña debe tener al menos 6 caracteres";
+"invalid_email_format" = "Por favor ingresa una dirección de correo válida";
+"alert_title" = "Aviso";
+"alert_ok" = "OK";
+
+"choose_plan" = "Elegir plan de suscripción";
+"free_trial_title" = "Prueba gratuita";
+"half_year_title" = "Suscripción 6 meses";
+"full_year_title" = "Suscripción 1 año";
+"free" = "Gratis";
+"one_month" = "1 mes";
+"six_months" = "6 meses";
+"one_year" = "1 año";
+"best_value" = "Mejor valor";
+"start_free_trial" = "Iniciar prueba gratuita";
+"subscribe" = "Suscribirse ahora";
+"subscription_terms" = "La suscripción se renueva automáticamente y puede cancelarse en cualquier momento en configuración";
+"close" = "Cerrar";
+"subscription_success" = "Suscripción exitosa";
+"free_trial_activated" = "¡Prueba gratuita activada! Puedes usar las funciones premium gratis durante 1 mes.";
+"half_year_subscribed" = "¡Suscripción de 6 meses activada! Gracias por tu apoyo.";
+"full_year_subscribed" = "¡Suscripción de 1 año activada! Gracias por elegir nuestro plan de mejor valor.";
+"ok" = "OK";
+
+// Error Messages - Mensajes de error
+"registration_failed" = "Error en el registro. Por favor inténtalo más tarde";
+"login_error" = "Correo o contraseña inválidos";
+"network_error" = "Error de conexión de red. Por favor verifica tu configuración de red";
+"server_error" = "Error del servidor. Por favor inténtalo más tarde";
+"unknown_error" = "Ocurrió un error desconocido. Por favor inténtalo más tarde";
+"email_already_registered" = "Este correo ya está registrado";
+"invalid_credentials" = "Correo o contraseña inválidos";
+"user_not_found" = "Cuenta no encontrada o contraseña incorrecta";
+"email_not_confirmed" = "Correo no confirmado. Por favor verifica tu correo y haz clic en el enlace de verificación";
+"weak_password" = "La contraseña es muy débil. Por favor usa una contraseña más compleja";
+"too_many_requests" = "Demasiadas solicitudes. Por favor inténtalo más tarde";
+"invalid_email_format" = "Por favor ingresa una dirección de correo válida";
+"password_mismatch" = "Las contraseñas no coinciden";
+"password_too_short" = "La contraseña debe tener al menos 6 caracteres";
+
+// Consejos de combinación de búsqueda de la página de inicio
+"search_combination_hint" = "Buscando %d×%d=%d combinaciones";
+"search_combination_result_title" = "Resultados de combinación de búsqueda";
+"search_combination_result" = "%d verduras × %d carnes = %d combinaciones de videos populares encontradas";
+"no_related_cooking_videos_found" = "No se encontraron videos de cocina relacionados";
+"please_try_selecting_other_ingredients" = "Por favor intenta seleccionar otros ingredientes o utensilios de cocina";

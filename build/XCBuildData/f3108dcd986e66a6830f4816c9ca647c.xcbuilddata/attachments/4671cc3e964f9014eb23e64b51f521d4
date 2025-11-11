@@ -1,0 +1,298 @@
+{
+  "" : {
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCook-master.dia",
+    "emit-module-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCook-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCook-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCook-master.swiftdeps"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/ContentView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/HomeCookApp.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCookApp.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCookApp.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCookApp.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCookApp.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCookApp.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCookApp.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCookApp.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeCookApp~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Item.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Models/Recipe.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Recipe.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Recipe.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Recipe.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Recipe.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Recipe.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Recipe.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Recipe.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/Recipe~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Models/YouTubeVideo.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeVideo.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeVideo.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeVideo.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeVideo.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeVideo.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeVideo.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeVideo.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeVideo~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Services/SupabaseService.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SupabaseService.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SupabaseService.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SupabaseService.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SupabaseService.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SupabaseService.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SupabaseService.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SupabaseService.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SupabaseService~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Services/YouTubeService.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeService.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeService.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeService.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeService.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeService.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeService.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeService.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/YouTubeService~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Utils/FavoriteManager.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoriteManager.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoriteManager.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoriteManager.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoriteManager.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoriteManager.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoriteManager.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoriteManager.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoriteManager~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Utils/HistoryManager.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryManager.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryManager.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryManager.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryManager.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryManager.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryManager.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryManager.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryManager~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Utils/LanguageManager.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LanguageManager.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LanguageManager.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LanguageManager.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LanguageManager.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LanguageManager.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LanguageManager.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LanguageManager.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LanguageManager~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Utils/LocalizationHelper.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LocalizationHelper.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LocalizationHelper.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LocalizationHelper.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LocalizationHelper.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LocalizationHelper.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LocalizationHelper.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LocalizationHelper.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LocalizationHelper~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Utils/SharedStyles.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SharedStyles.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SharedStyles.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SharedStyles.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SharedStyles.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SharedStyles.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SharedStyles.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SharedStyles.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SharedStyles~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Utils/ThemeManager.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ThemeManager.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ThemeManager.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ThemeManager.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ThemeManager.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ThemeManager.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ThemeManager.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ThemeManager.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ThemeManager~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Utils/UserManager.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/UserManager.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/UserManager.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/UserManager.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/UserManager.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/UserManager.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/UserManager.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/UserManager.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/UserManager~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/AboutView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/AboutView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/AboutView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/AboutView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/AboutView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/AboutView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/AboutView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/AboutView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/AboutView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/Components/ImagePicker.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ImagePicker.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ImagePicker.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ImagePicker.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ImagePicker.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ImagePicker.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ImagePicker.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ImagePicker.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ImagePicker~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/Components/LoginRegisterView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LoginRegisterView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LoginRegisterView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LoginRegisterView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LoginRegisterView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LoginRegisterView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LoginRegisterView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LoginRegisterView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/LoginRegisterView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/Components/VideoRecipeCard.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/VideoRecipeCard.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/VideoRecipeCard.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/VideoRecipeCard.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/VideoRecipeCard.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/VideoRecipeCard.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/VideoRecipeCard.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/VideoRecipeCard.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/VideoRecipeCard~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/FavoritesView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoritesView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoritesView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoritesView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoritesView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoritesView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoritesView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoritesView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FavoritesView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/FlavorGachaView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FlavorGachaView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FlavorGachaView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FlavorGachaView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FlavorGachaView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FlavorGachaView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FlavorGachaView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FlavorGachaView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/FlavorGachaView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/HistoryView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HistoryView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/HomeView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/MainTabView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/MainTabView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/MainTabView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/MainTabView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/MainTabView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/MainTabView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/PremiumView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/PremiumView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/PremiumView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/PremiumView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/PremiumView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/PremiumView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/PremiumView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/PremiumView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/PremiumView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/ProfileView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/RestartView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/RestartView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/RestartView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/RestartView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/RestartView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/RestartView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/RestartView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/RestartView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/RestartView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/SettingsView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/rax/Development/workspace/iOS-Develop/HomeCook/HomeCook/Views/WelcomeView.swift" : {
+    "const-values" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/WelcomeView.swiftconstvalues",
+    "dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/WelcomeView.d",
+    "diagnostics" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/WelcomeView.dia",
+    "index-unit-output-path" : "/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/WelcomeView.o",
+    "llvm-bc" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/WelcomeView.bc",
+    "object" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/WelcomeView.o",
+    "swift-dependencies" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/WelcomeView.swiftdeps",
+    "swiftmodule" : "/Users/rax/Development/workspace/iOS-Develop/HomeCook/build/HomeCook.build/Debug-iphoneos/HomeCook.build/Objects-normal/arm64/WelcomeView~partial.swiftmodule"
+  }
+}

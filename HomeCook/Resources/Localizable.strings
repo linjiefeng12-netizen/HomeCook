@@ -1,0 +1,178 @@
+/* 
+  Localizable.strings
+  HomeCook
+
+  Created by linjiefeng on 2025/7/3.
+  
+*/
+
+// Tab Bar
+"home" = "Home";
+"flavor_gacha" = "Flavor Gacha";
+"me" = "Me";
+
+// Home Screen
+"lets_cooking" = "Let's Cooking !";
+"select_ingredients" = "Select Ingredients";
+"vegetables" = "Vegetables";
+"meats" = "Meats";
+"staple_foods" = "Staple Foods (Options)";
+"select_kitchenware" = "Select Kitchenware";
+"recommended_recipes" = "Recommended Recipes";
+
+// Ingredients
+"potato" = "Potato";
+"carrot" = "Carrot";
+"tomato" = "Tomato";
+"onion" = "Onion";
+"green_pepper" = "Green Pepper";
+"eggplant" = "Eggplant";
+"spinach" = "Spinach";
+"cucumber" = "Cucumber";
+"sweet_corn" = "Sweet Corn";
+"celery" = "Celery";
+"cauliflower" = "Cauliflower";
+"broccoli" = "Broccoli";
+"bitter_melon" = "Bitter Melon";
+"pumpkin" = "Pumpkin";
+"lotus_root" = "Lotus Root";
+"mushrooms" = "Mushrooms";
+"enoki_mushrooms" = "Enoki Mushrooms";
+"shiitake_mushrooms" = "Shiitake Mushrooms";
+"oyster_mushrooms" = "Oyster Mushrooms";
+"king_oyster_mushrooms" = "King Oyster Mushrooms";
+
+"sausage" = "Sausage";
+"pork" = "Pork";
+"beef" = "Beef";
+"eggs" = "Eggs";
+"fish" = "Fish";
+"shrimp" = "Shrimp";
+"chicken" = "Chicken";
+"lamb" = "Lamb";
+"duck" = "Duck";
+"goose" = "Goose";
+"offal" = "Offal";
+"tripe" = "Tripe";
+
+"pasta" = "Pasta";
+"bread" = "Bread";
+"rice" = "Rice";
+"noodles" = "Noodles";
+"rice_flour" = "Rice Flour";
+"grains" = "Grains";
+"beans" = "Beans";
+"bean_products" = "Bean Products";
+"tubers" = "Tubers";
+"nuts" = "Nuts";
+
+// Kitchenware
+"oven" = "Oven";
+"air_fryer" = "Air Fryer";
+"microwave" = "Microwave";
+"rice_cooker" = "Rice Cooker";
+"versatile_pot" = "Versatile Pot";
+
+// Flavor Gacha
+"servings" = "Servings";
+"random_match" = "Random Match";
+"recipes" = "Recipes";
+
+// Recipe Names
+"pasta_carbonara" = "Pasta Carbonara";
+"mediterranean_salad" = "Mediterranean Salad";
+"tomato_soup" = "Tomato Soup";
+"chocolate_mousse" = "Chocolate Mousse";
+"roasted_potato_pork" = "Roasted Potato Pork";
+"rice_cooker_chicken_rice" = "Rice Cooker Chicken Rice";
+"grilled_salmon" = "Grilled Salmon";
+"beef_stir_fry" = "Beef Stir Fry";
+"chicken_curry" = "Chicken Curry";
+"vegetable_stew" = "Vegetable Stew";
+"rice_pudding" = "Rice Pudding";
+"apple_pie" = "Apple Pie";
+"mushroom_risotto" = "Mushroom Risotto";
+"caesar_salad" = "Caesar Salad";
+"beef_burger" = "Beef Burger";
+"fish_tacos" = "Fish Tacos";
+"vegetable_lasagna" = "Vegetable Lasagna";
+"chicken_soup" = "Chicken Soup";
+"fruit_salad" = "Fruit Salad";
+"pork_chops" = "Pork Chops";
+"quinoa_bowl" = "Quinoa Bowl";
+"shrimp_scampi" = "Shrimp Scampi";
+
+// Profile
+"profile" = "Profile";
+"premium_member" = "Premium Member";
+"joined_years_ago" = "Joined %d years ago";
+"history" = "History";
+"my_favorites" = "My Favorites";
+"share_recipes" = "Share Recipes";
+"feedback" = "Feedback";
+"settings" = "Settings";
+"about" = "About";
+
+// Recipe Details
+"spicy_chicken_stir_fry" = "Spicy Chicken Stir-Fry";
+"creamy_tomato_soup" = "Creamy Tomato Soup";
+"grilled_salmon_asparagus" = "Grilled Salmon with Asparagus";
+
+// Recipe Descriptions
+"classic_combination_potatoes_pork" = "Classic combination of potatoes and pork";
+"simple_quick_one_pot_meal" = "Simple and quick one-pot meal";
+
+// History
+"november_2024" = "November 2024";
+"year_month" = "November 2024";
+"recently_cooking" = "Recently Cooked";
+
+// Settings
+"settings_title" = "Settings";
+"language_settings" = "Language Settings";
+"theme_settings" = "Theme Settings";
+"dark_mode" = "Dark Mode";
+"light_mode" = "Light Mode";
+
+// About
+"about_us" = "About Us";
+"user_agreement" = "User Agreement";
+"privacy_policy" = "Privacy Policy";
+"version_info" = "Version Info";
+"all_rights_reserved" = "All rights reserved";
+
+// About Us Content
+"about_us_title" = "About HomeCook";
+"about_us_description" = "HomeCook is your personal cooking assistant, designed to make cooking at home easier, more enjoyable, and more creative. We believe that everyone deserves to enjoy delicious, healthy meals prepared with love in their own kitchen.";
+"feature1" = "Smart Recipe Recommendations";
+"feature1_desc" = "Get personalized recipe suggestions based on your ingredients and preferences";
+"feature2" = "Multi-language Support";
+"feature2_desc" = "Available in 8 languages to serve users worldwide";
+"feature3" = "User-friendly Interface";
+"feature3_desc" = "Intuitive design that makes cooking accessible to everyone";
+
+// User Agreement
+"user_agreement_title" = "User Agreement";
+"agreement_section1" = "1. Acceptance of Terms";
+"agreement_section1_content" = "By downloading, installing, or using the HomeCook application, you agree to be bound by these terms and conditions. If you do not agree to these terms, please do not use the application.";
+"agreement_section2" = "2. Use of Service";
+"agreement_section2_content" = "HomeCook is provided for personal, non-commercial use only. You may not use the service for any commercial purposes without our written consent.";
+"agreement_section3" = "3. User Content";
+"agreement_section3_content" = "You retain ownership of any content you submit to the application. By submitting content, you grant us a license to use, modify, and distribute your content within the application.";
+"agreement_section4" = "4. Termination";
+"agreement_section4_content" = "We reserve the right to terminate or suspend your access to the service at any time, with or without cause, and without prior notice.";
+
+// Privacy Policy
+"privacy_policy_title" = "Privacy Policy";
+"privacy_section1" = "1. Information We Collect";
+"privacy_section1_content" = "We collect information you provide directly to us, such as when you create an account, submit recipes, or contact us for support. This may include your name, email address, and cooking preferences.";
+"privacy_section2" = "2. How We Use Your Information";
+"privacy_section2_content" = "We use the information we collect to provide, maintain, and improve our services, to communicate with you, and to personalize your experience with the application.";
+"privacy_section3" = "3. Information Sharing";
+"privacy_section3_content" = "We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except as required by law or as necessary to provide our services.";
+"privacy_section4" = "4. Data Security";
+"privacy_section4_content" = "We implement appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.";
+
+// Version Info
+"version_info_title" = "Version Information";
+"current_version" = "Current Version";
